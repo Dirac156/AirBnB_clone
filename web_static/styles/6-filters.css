@@ -64,6 +64,11 @@ button:hover{
     display: none;
 	width: 25%;
 }
+
+.popover li{
+    margin-left: 30px;
+}
 .filters div:hover .popover { 
     display: inline-block;
+    position:absolute;
 }
